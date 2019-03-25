@@ -15,16 +15,11 @@ h2{
 a{
     font-size: 11px;
 }
-body{
-    height: 50%;
-    width: 50%;
-   
-}
+
 .container{
     text-align: center;
     background: greenyellow;
-    width: 40%;
-    height: 150%;
+    height: 100%;
 }
 
 div.group[type="text"],
